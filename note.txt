@@ -1,0 +1,11 @@
+readme.md   git ma untracked hoy che
+code-add readme
+have file staging area par aai jase
+have \\
+
+
+
+
+
+. current dir.
+$ git add. everyone comes on the stage 
